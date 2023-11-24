@@ -36,12 +36,12 @@ def credits():
     time.sleep(1)
     print("                           NLTK:\n\n                                       Steven Bird, Edward Loper, Ewan Klein\n\n")
     time.sleep(1)
-    print("                     {")
-    print("                       Special thanks to Professor Ignacio, my teammates Zuka Mikhelashvili ")
-    print("                       & Santiago Garcia, Alissa Coronna, my father Jerason, & the ")
-    print("                       Fall 2023 Text Analytics class. I've been lucky to learn")
-    print("                       from & alongside you all.")
-    print("                     }")
+    print("         {")
+    print("         Special thanks to Professor Ignacio, my teammates Zuka Mikhelashvili ")
+    print("         & Santiago Garcia, Alissa Coronna, my father Jerason, & the ")
+    print("         Fall 2023 Text Analytics class. I've been lucky to learn")
+    print("         from & alongside you all.")
+    print("         }")
     print("\n")
 
     input("\n\n...Press [ENTER] to return to options menu.")
@@ -338,7 +338,7 @@ def tiktokCommentScraper(linkslist):
 
 while(True):
     option = 0
-    print(pyfiglet.figlet_format('           Text       Analytics\nComment       Scraper', width=300))
+    print(pyfiglet.figlet_format('   Text     Analytics\n  Comment   Scraper', width=300, font='rectangles'))
     option = input('Type [0] for credits....\n\n\n                   What platform would you like to scrape?\n\n                   Type [1] for Facebook\n                   Type [2] for YouTube\n                   Type [3] for TikTok\n\n\nSelection: ')
     if not option.isdigit() or not 4>int(option)>-1:
         print("\n[" + option + "] was not an expected response...please try again.\n\n\n")
