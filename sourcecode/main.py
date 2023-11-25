@@ -36,6 +36,8 @@ def credits():
     time.sleep(1)
     print("                           NLTK:\n\n                                       Steven Bird, Edward Loper, Ewan Klein\n\n")
     time.sleep(1)
+    print("                           PyInstaller:\n\n                                       https://pyinstaller.org/en/stable/CREDITS.html\n\n")
+    time.sleep(1)
     print("         {")
     print("         Special thanks to Professor Ignacio, my teammates Zuka Mikhelashvili ")
     print("         & Santiago Garcia, Alissa Coronna, my father Jerason, & the ")
