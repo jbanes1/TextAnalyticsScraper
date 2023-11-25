@@ -86,6 +86,8 @@ Unfortunately, the API used for this scraper is not open source, so this part of
 - [Zurab Mikhelashvili](https://www.linkedin.com/in/zuka-mikhelashvili-34921a22b/) 
 - [Santiago Garcia](https://www.linkedin.com/in/santiago-garcia-3a7157250/)
 
+#### My Father:
+- [Jerason Banes](https://www.linkedin.com/in/jerason-banes-3594977a/)
  
 
 #### My classmates in the Fall 2023 class:
