@@ -73,13 +73,13 @@ Unfortunately, the API used for this scraper is not open source, so this part of
 
 - [Jonas G. Banes](https://www.linkedin.com/in/jonasbanes)
 
-- [Ignacio Luri, PhD](https://www.linkedin.com/in/iluri/)
+- [Ignacio Luri, Ph.D.](https://www.linkedin.com/in/iluri/)
 
 
 ## Acknowledgements
 
 #### My professor in Text Analytics for Marketing:
-- [Ignacio Luri, PhD](https://www.linkedin.com/in/iluri/)
+- [Ignacio Luri, Ph.D.](https://www.linkedin.com/in/iluri/)
 
 #### VIPs
 - [Alissa Coronna](https://www.linkedin.com/in/acoronna/)
@@ -123,6 +123,9 @@ Unfortunately, the API used for this scraper is not open source, so this part of
 
 
 ## Python Packages
+
+#### Text Preprocessor:
+Ignacio Luri Ph.D.
 
 #### Facebook Comments Scraper: 
 
