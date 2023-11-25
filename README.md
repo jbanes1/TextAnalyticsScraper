@@ -29,6 +29,10 @@
 
 Go to the "Releases" section on the right-hand side. Download the most recent release and either recompile the project using "PyInstaller" or run the pre-compiled Windows or Mac release. 
 
+#### How do I build this?
+
+Install all requirements using [requirements.txt](https://github.com/jbanes1/TextAnalyticsScraper/blob/main/requirements.txt) then use an IDE of your choice to build the source code using PyInstaller.
+
 #### Facebook mode says "Unsupported Browser."
 
 Wait a few seconds. Generally, this is a warning and not an error.
