@@ -27,11 +27,11 @@
 
 #### How do I use this?
 
-Go to the "Releases" section on the right hand side. Download the most recent release and either recompile the project using "PyInstaller" or run the pre-compiled Windows or Mac release. 
+Go to the "Releases" section on the right-hand side. Download the most recent release and either recompile the project using "PyInstaller" or run the pre-compiled Windows or Mac release. 
 
 #### Facebook mode says "Unsupported Browser."
 
-Wait a few seconds. Generally this is a warning and not an error.
+Wait a few seconds. Generally, this is a warning and not an error.
 
 If the program crashes or does not proceed, you may need to look into further help on why the program isn't working.
 
@@ -54,7 +54,7 @@ This means the page did not finish loading before the [addLinksToList] function 
 
 If this happens continuously, try closing some processes on your computer before the link scraping begins. After it starts scrolling, feel free to continue using your computer.
 
-In the case the above "fix" does not work, try adding time.sleep(int) after the driver.get calls. Whatever interger you use as "int" will be the number of seconds until the next steps of the program can begin. This will require the program to be recompiled.
+In the case the above "fix" does not work, try adding time.sleep(int) after the driver.get calls. Whatever integer you use as "int" will be the number of seconds until the program's next steps can begin. This will require the program to be recompiled.
 
 #### The TikTok scraper is broken!
 
@@ -153,6 +153,11 @@ Kenneth Reitz
 #### NLTK: 
 
 Steven Bird, Edward Loper, Ewan Klein
+
+#### PyInstaller: 
+
+[PyInstaller Credits](https://pyinstaller.org/en/stable/CREDITS.html)
+
 ## License
 
 MIT License
