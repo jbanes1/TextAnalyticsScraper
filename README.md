@@ -33,6 +33,10 @@ Go to the "Releases" section on the right-hand side. Download the most recent re
 
 Install all requirements using [requirements.txt](https://github.com/jbanes1/TextAnalyticsScraper/blob/main/requirements.txt) then use an IDE of your choice to build the source code using PyInstaller.
 
+PyInstaller command: pyinstaller main.py --onefile --collect-all pyfiglet
+
+(PyFiglet may have issues if not using --collect-all pyfiglet)
+
 #### Facebook mode says "Unsupported Browser."
 
 Wait a few seconds. Generally, this is a warning and not an error.
